@@ -36,18 +36,13 @@
   alt="javascript" width="100" height="100" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="100"
   height="100" />
-
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="100"
   height="100" />
 
-<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"
-  alt="redux" width="100" height="100" />
-<img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"
-  alt="chakra" width="100" height="100" />
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="100"
   height="100" />
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="100"
-  height="100" />
+
+  
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"
   alt="npm" width="100" height="100" />
 
