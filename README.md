@@ -25,11 +25,38 @@
  <a align="center" href="www.linkedin.com/in/samik1110"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image" width="30px" /></a>
  </p>
 
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="#">
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
+  alt="html5" width="100" height="100" /><img
+  src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
+  alt="css3" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
+  alt="javascript" width="100" height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="100"
+  height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="100"
+  height="100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="100"
+  height="100" />
+<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs"
+  width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"
+  alt="redux" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"
+  alt="chakra" width="100" height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="100"
+  height="100" />
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="100"
+  height="100" />
+<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"
+  alt="npm" width="100" height="100" />
 
- </p>
+<img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="100" height="100" />
+</a>
+</p>
+<br />
  <h2 align="center">My Github Stats</h2>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Samik1110&layout=compact)
