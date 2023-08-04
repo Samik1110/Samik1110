@@ -36,12 +36,10 @@
   alt="javascript" width="100" height="100" />
 <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="100"
   height="100" />
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="100"
-  height="100" />
+
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular" width="100"
   height="100" />
-<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs"
-  width="100" height="100" />
+
 <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"
   alt="redux" width="100" height="100" />
 <img src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"
