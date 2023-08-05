@@ -15,14 +15,14 @@
 
 - 📫 How to reach me **samikshakhangar1999@gmail.com**
 
-- 📄 Check Out My <a href="https://drive.google.com/file/d/1owYZnPcn_ulBl1WMlZM9MlrazUzp7FNx/view?usp=sharing">Reasume </a>
+- 📄 Check Out My <a href="https://drive.google.com/file/d/1owYZnPcn_ulBl1WMlZM9MlrazUzp7FNx/view?usp=sharing">Resume </a>
 
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Samik1110?tab=repositories">My Github Repositories</a>
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
- <a align="center" href="www.linkedin.com/in/samik1110"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image" width="30px" /></a>
+ <a align="center" href="www.linkedin.com/in/samik1110"><img src="https://raw.githubusercontent.com/Samik1110/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="image" width="30px" /></a>
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
